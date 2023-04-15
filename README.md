@@ -1,4 +1,3 @@
-# RSA-Chat
 
 # <img align=center width=100px  src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif"> RSA-Chat
 
