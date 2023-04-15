@@ -1,6 +1,6 @@
 # RSA-Chat
 
-# <img align=center width=100px  src="https://cdn.dribbble.com/users/11183/screenshots/1708900/media/caa009d74cdfbfef211503aafca1c7e4.gif"> RSA-Chat
+# <img align=center width=100px  src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif"> RSA-Chat
 
 <div align="center">
    <img src="https://www.nist.gov/sites/default/files/styles/2800_x_2800_limit/public/images/2020/07/07/20ITL011_threshold.gif?itok=Bq9AKbRq" alt="lock">
